@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --accent:#0ea5a4;
+}
+
+html,body,#__next{height:100%;}
+body{font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;}
+
+/* Simple hero background image placeholder */
+/* .hero-bg{
+  background-image: url('/images/burj-hero.jpg');
+  background-position: center;
+  background-size: cover;
+} */
